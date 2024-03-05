@@ -1,0 +1,4 @@
+werkzeug==2.0
+flask==2.0.1
+Flask-SQLAlchemy
+psycopg2-binary
